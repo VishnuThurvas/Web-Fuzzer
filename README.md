@@ -14,7 +14,7 @@ A simple yet powerful **Web Fuzzer** built in Python to test web applications fo
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/Vishnuthurvas/Web-Fuzzer.git
+   git clone https://github.com/VishnuThurvas/Web-Fuzzer.git
    cd web-fuzzer
    ```
 
