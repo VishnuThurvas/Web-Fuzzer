@@ -7,7 +7,6 @@ A simple yet powerful **Web Fuzzer** built in Python to test web applications fo
 - Fast and efficient fuzzing
 - Supports custom wordlists
 - Adjustable request timeout and concurrency
-- Output results in a structured format
 
 ## Installation
 
